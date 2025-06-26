@@ -3,9 +3,9 @@
 #    if i%2==0:
 #     print(f'{i} hello')
 
-def sum(a, b):
+def adder(a, b):
     c = a + b
     print(c)
 
 if '__main__' ==(__name__):
-    sum(3,2)
+    adder(3,2)
