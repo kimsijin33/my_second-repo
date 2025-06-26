@@ -30,4 +30,4 @@ Use pip !!!!!!!!
 
 ## Credit
 
-- kingwangzzang1234( @kingwangzzang1234 ) 
+- kimsijin33( @kimsijin33 ) 
